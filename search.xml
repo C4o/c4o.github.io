@@ -5,8 +5,8 @@
     <entry>
       <title></title>
       <url>/2017/08/14/ForTest/</url>
-      <content type="html"><![CDATA[<p>title:Title</p>
-<p>#Title1</p>
+      <content type="html"><![CDATA[<hr>
+<h2 id="title-Title"><a href="#title-Title" class="headerlink" title="title:Title"></a>title:Title</h2><p>#Title1</p>
 <p>##title1<br>asdf</p>
 <p>##title2</p>
 ]]></content>
