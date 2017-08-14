@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://c4o.github.io/"/>
   <updated>2017-08-14T02:18:31.197Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://c4o.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title></title>
-    <link href="http://yoursite.com/2017/08/14/ForTest/"/>
-    <id>http://yoursite.com/2017/08/14/ForTest/</id>
+    <link href="https://c4o.github.io/2017/08/14/ForTest/"/>
+    <id>https://c4o.github.io/2017/08/14/ForTest/</id>
     <published>2017-08-14T02:16:09.797Z</published>
     <updated>2017-08-14T02:18:31.197Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/08/13/hello-world/"/>
-    <id>http://yoursite.com/2017/08/13/hello-world/</id>
+    <link href="https://c4o.github.io/2017/08/13/hello-world/"/>
+    <id>https://c4o.github.io/2017/08/13/hello-world/</id>
     <published>2017-08-13T13:21:53.517Z</published>
     <updated>2017-08-13T13:21:53.517Z</updated>
     
